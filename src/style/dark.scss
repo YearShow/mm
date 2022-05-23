@@ -1,0 +1,44 @@
+.app.dark {
+  background-color: #222;
+  color: rgb(156, 156, 156);
+
+  .navbar {
+    color: #999;
+    background-color: #222;
+	border-color: #999;
+
+  }
+  .main {
+	  height: 100%;
+	.logs {
+		background-color: #222;
+  color: rgb(156, 156, 156);
+ border-color: #999;
+
+	}
+  .homeContainer {
+	  background-color: #222;
+  	.listContainer {
+		background-color: #222;
+	  .datatable {
+		  .datagrid {
+			  background-color: #333;
+			  color: gray;
+			  border: gray;
+			  
+			  .viewButton,
+			  .deleteButton,
+			  .cellWithStatus {
+				  color: gray;
+				  border: none;
+				}
+			}
+		}
+		
+	}
+  select{
+      background-color: transparent;
+  }
+}
+  }
+}
